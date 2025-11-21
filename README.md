@@ -14,3 +14,4 @@
 - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [ ] Further customize and style the card
 - [ ] Add a button that will toggle hiding and showing the answer choices
+![GIF HAITI](https://github.com/user-attachments/assets/bf0b155f-386e-4510-8abc-1f7ef293fdc2)
